@@ -13,7 +13,7 @@ Other developers can edit this code to mean the thier requirement for usage but 
 
 # DEVELOPER INFORMATIONS
 
-PHONE - +233 53 271 3417
+PHONE - +233 53 271 3417.
 EMAIL - ahorlueliezer@gmail.com
 ADDRESS - P.O BOX AT 1069 ACTIMOTA ACCRA.
 COUNTRY - GHANA
